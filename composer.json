@@ -22,7 +22,7 @@
     },
     "require-dev": {
         "guzzle/plugin-mock": "~3.0",
-        "pdepend/pdepend": "~1.0",
+        "pdepend/pdepend": "~1.0 || ~2.0",
         "phploc/phploc": "~2.0",
         "phpmd/phpmd": "~1.0",
         "phpunit/phpunit": "~3.0",
